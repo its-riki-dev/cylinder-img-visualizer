@@ -48,7 +48,7 @@
 ## Clone the repo
 
 ```bash
-git clone https://github.com/its-riki-dev/gradient-cube.git
+git clone https://github.com/its-riki-dev/cylinder-img-visualizer.git
 
 # Install dependencies
 npm install
