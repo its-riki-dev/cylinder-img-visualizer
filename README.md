@@ -3,7 +3,7 @@
 **A sleek 3D cylinder image visualizer** built with **React Three Fiber** and **Postprocessing**, featuring a textured rotating cylinder rendered with high geometry detail and wrapped in a glowing **Bloom** effect. Utilizes a full-screen WebGL canvas, ambient and directional lighting, and an immersive black background — delivering a smooth, cinematic visual experience in a minimalistic interface.
 
 
-[![HomeSS](public/heropage.png)](https://cylinder-img-visualizer.vercel.app/)
+[![HomeSS](public/heropage.png)](https://cylinder-img-visualizer.netlify.app/)
 
 ---
 
